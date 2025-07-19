@@ -24,7 +24,7 @@ SkyCast is a simple and beautiful weather web application built using **React** 
 
 ## 📸 Demo
 
-> [🌐 Live Demo](https://your-live-link.com)  
+> [🌐 Live Demo](https://skycast-smoky-nine.vercel.app/)
 
 
 
